@@ -1,10 +1,6 @@
 - 👋 Hi, I’m Kevinkumar Patel
 - 👀 I’m interested in Data Science, Data Engineer, Software role, Web developer
-- 🌱 I’m currently pursuing Computer Science in UIC
-- 💞️ I’m looking to collaborate on Data related programming projects
+- 🌱 I am pursuing a Bachelor's degree in Computer Science at the University of Illinois at Chicago (UIC) and am scheduled to graduate in December 2023.
+- 💞️ I’m looking to collaborate on data-related/web based programming projects.
 - 📫 How to reach me via email: kpatel5071@gmail.com
 
-<!---
-kevu4567 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
