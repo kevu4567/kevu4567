@@ -24,9 +24,7 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=html" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=css" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=javascript" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=typescript" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=solidity" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=c" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=python" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=java" />
 </p>
 
@@ -42,22 +40,15 @@
 <p align="left">
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=postgres" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=redis" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" />
 </p>
-
-## DevOps
-<p>
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=docker" />
-</p>
-
 
 <br/><br/><br/>
 
 <div>      
-  <img height="200" width="850" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=priyanshpatel18&show_icons=true&theme=dark" alt="My GitHub Stats"/>
+  <img height="200" width="850" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevu4567&show_icons=true&theme=dark" alt="My GitHub Stats"/>
   <br/><br/>
-  <img height="200" width="850" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshpatel18&theme=dark&layout=compact"/>
+  <img height="200" width="850" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevu4567&theme=dark&layout=compact"/>
 </div>
 
 
