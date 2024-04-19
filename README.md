@@ -9,9 +9,7 @@
 
 - 🤝 I’m looking for help with **enhancing my portfolio as a full-stack developer.**
 
-- 💬 Ask me about **Full Stack Development**
-
-- 📫 How to reach me **priyansh.180804@gmail.com**
+- 📫 How to reach me **kpatel5071@gmail.com**
 
 ## Connect with me:
 <p align="left">
