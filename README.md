@@ -13,7 +13,7 @@
 
 ## Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/priyansh-patel-1570b0251/" target="blank">    <img height="35" width="50" src="https://skillicons.dev/icons?i=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/kevinkumar-patel507/" target="blank">    <img height="35" width="50" src="https://skillicons.dev/icons?i=linkedin" /></a>
   <a href="https://twitter.com/priyansh_ptl18" target="blank">    <img height="35" width="50" src="https://skillicons.dev/icons?i=twitter" /></a>
 </p>
 
