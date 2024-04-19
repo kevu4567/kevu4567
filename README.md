@@ -26,6 +26,7 @@
     <img height="35" width="50" src="https://skillicons.dev/icons?i=javascript" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=python" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=java" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=C++" />
 </p>
 
 ## Frameworks
