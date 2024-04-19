@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+there!+👋🏽;I'm+Kevin!;Nice+to+meet+you!&center=true&size=30&color=2396ED">
 </h1>
-<h1 align="center">The Code Artisan</h1>
+<h1 align="center">Smart Rookie</h1>
 
 <img align="right" alt="Coding" width="350" src="https://miro.medium.com/v2/resize:fit:679/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
@@ -63,11 +63,7 @@
     <img height="35" width="35" src="https://avatars.githubusercontent.com/u/139895814?s=280&v=4" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=ai" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=md" />
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=graphql" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=redux" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=docker" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=kubernetes" /> -->
-<!--     <img height="35" width="50" src="https://skillicons.dev/icons?i=d3" /> -->
+
 </p>
 
 <br/><br/><br/>
