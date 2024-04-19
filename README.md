@@ -42,7 +42,7 @@
 ## Databases
 <p align="left">
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mongodb" />
-    <img height="35" width="50" src="https://skillicons.dev/icons?i=postgres" />
+    <img height="35" width="50" src="https://skillicons.dev/icons?i=sqlite" />
     <img height="35" width="50" src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
