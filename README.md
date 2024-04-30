@@ -49,7 +49,7 @@
 <br/><br/><br/>
 
 <div>      
-  <img height="200" width="850" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevu4567&show_icons=true&theme=dark" alt="My GitHub Stats!"/>
+  <img height="200" width="850" align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=kevu4567&show_icons=true&theme=dark" alt="My GitHub Stats"/>
   <br/><br/>
   <img height="200" width="850" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevu4567&theme=dark&layout=compact"/>
 </div>
